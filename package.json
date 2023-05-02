@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react-main",
+  "version": "1.0.0",
+  "description": "this is namaste react by akshay saini",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmulik34/Namaste-React-Main.git"
+  },
+  "keywords": [],
+  "author": "pooja mulik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pmulik34/Namaste-React-Main/issues"
+  },
+  "homepage": "https://github.com/pmulik34/Namaste-React-Main#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
