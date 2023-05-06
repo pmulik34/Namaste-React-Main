@@ -2,7 +2,6 @@
   "name": "namaste-react-main",
   "version": "1.0.0",
   "description": "this is namaste react by akshay saini",
-  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
@@ -18,6 +17,11 @@
   },
   "homepage": "https://github.com/pmulik34/Namaste-React-Main#readme",
   "devDependencies": {
-    "parcel": "^2.8.3"
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
